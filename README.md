@@ -139,3 +139,5 @@ create table oauth_approvals (
   lastModifiedAt TIMESTAMP
 );
 ```
+
+oke sekian dan terimakasih..
