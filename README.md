@@ -140,4 +140,4 @@ create table oauth_approvals (
 );
 ```
 
-oke sekian dan terimakasih..
+
